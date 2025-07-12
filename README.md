@@ -1,6 +1,6 @@
 # 🧼 Erazor – Background Removal API
 
-🔗 **Live API**: [`https://your-vercel-url.vercel.app/api/image/remove-bg`](#)  
+🔗 **Live API**: [`https://free-bg-removal.vercel.app/`](#)  
 🔐 **Authentication**: JWT + Clerk  
 💳 **Credits System**: 1 credit per background removal  
 🧠 **Powered by**: ClipDrop AI API
@@ -54,7 +54,7 @@
 ### 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/bg-removal-api-erazor.git
+git clone https://github.com/Prajapati-Piyush/Bg-removal.git
 cd server
 npm install
 
